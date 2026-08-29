@@ -33,3 +33,6 @@ You see progress
 `Scanned lines: 515761    Matches: 13`
 
 There are some 5 Million lines, so it takes a while...
+
+# Licensing note
+This repository contains code that was assisted by AI. The code in this repository is licensed under the MIT License.
